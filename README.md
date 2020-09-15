@@ -1,7 +1,7 @@
 #                                                                       *тестова назва*
 ## (cистема організації та управління опитуваннями експертів) </p>
 
-## Учасники проекту
+### Учасники проекту
 
 + Alex Gryshyn | Gmail: gryshyn.alex@gmail.com | Telegram: @kep_alex |
 + Mykhailo Boiko | Gmail: m.boyko1228@gmail.com  | Telegram: @mishark8D |
