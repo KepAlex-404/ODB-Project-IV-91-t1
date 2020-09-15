@@ -1,14 +1,11 @@
 #                                                                       *тестова назва*
-#                                                   (cистема організації та управління опитуваннями експертів)
+## (cистема організації та управління опитуваннями експертів) </p>
 
-Шаблон репозиторію для виконання лабораторних робіт з курсу "Організація баз даних"
+## Учасники проекту
 
-*Для виконання лабораторних робіт необхідно зробити ```fork``` цього репозіторію, склонувати вже власний репозіторій та розміщувати документацію (результати виконання лабораторних робіт) у відповідних діректоріях. 
-В цьому файлі необхідно вказати назву проекту (тему лабораторних робіт). Коротку загальну характеристику
-проекту, контактні дані виконавців.*
-
-[Теми проєктів](./guidelines/themes.md)
-
-[Методичні вказівки](./guidelines/guidelines.md)
-
-[Звітність](https://docs.google.com/spreadsheets/d/1ePb9OBB7ox0E5-GAh2r6ZU3j--PpAROCUfqzA17kL20/edit?usp=sharing)
++ Alex Gryshyn | Gmail: gryshyn.alex@gmail.com | Telegram: @kep_alex |
++ Mykhailo Boiko | Gmail: m.boyko1228@gmail.com  | Telegram: @mishark8D |
++ Bohdan Chernykh | Gmail: jet.shustriy@gmail.com | Telegram: @Invisible3 |
++ Vihor Dmytro | Gmail:  | Telegram: @capVig |
++ Shchotkin Maksym | Gmail:  | Telegram: @SmakLagidlze |
++ Yaremenko Vlada | Gmail:  | Telegram: @Wladzia |
