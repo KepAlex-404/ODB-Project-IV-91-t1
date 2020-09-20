@@ -9,3 +9,4 @@
 + Vihor Dmytro | Gmail:  | Telegram: @capVig |
 + Shchotkin Maksym | Gmail:  | Telegram: @SmakLagidlze |
 + Yaremenko Vlada | Gmail:  | Telegram: @Wladzia |
++ Petruk Stas | Gmail:  | Telegram: @Frostbite_1242 |
