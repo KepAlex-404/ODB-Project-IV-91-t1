@@ -1,0 +1,17 @@
+@startuml
+   actor Manager
+  package UC_13{
+    usecase "Управління правами користувача" as UC1.2#A4E5EE
+  }
+
+  usecase "Надати права аналітика" as UC2
+  usecase "Забрати права аналітика" as UC3
+
+
+  Manager --r-> UC_13
+
+  UC2 .u.> UC_13
+  UC3 .u.> UC_13
+
+  
+@enduml

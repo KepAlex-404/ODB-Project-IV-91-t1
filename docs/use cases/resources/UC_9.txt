@@ -1,0 +1,18 @@
+@startuml
+  actor Analyst
+  package UC_9{
+    usecase "Управління анкетами" as UC1.2#A4E5EE
+  }
+
+  usecase "Створити анкету" as UC2
+  usecase "Редагувати анкету" as UC4
+  usecase "Видалити анкету" as UC5
+
+
+  Analyst --r-> UC_9
+
+  UC2 .u.> UC_9
+  UC4 .u.> UC_9
+  UC5 .u.> UC_9
+
+@enduml

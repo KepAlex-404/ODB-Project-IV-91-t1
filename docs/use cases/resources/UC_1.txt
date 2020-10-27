@@ -1,0 +1,20 @@
+@startuml
+  actor Respondent
+  package UC_1{
+    usecase "Управління обліковим записом" as UC1.2#A4E5EE
+  }
+
+  usecase "Створити обліковий запис" as UC2
+  usecase "Підтвердити обліковий запис" as UC3
+  usecase "Редагувати обліковий запис" as UC4
+  usecase "Видалити обліковий запис" as UC5
+
+
+  Respondent --r-> UC_1
+
+  UC2 .u.> UC_1
+  UC3 .u.> UC_1
+  UC4 .u.> UC_1
+  UC5 .u.> UC_1
+
+@enduml
