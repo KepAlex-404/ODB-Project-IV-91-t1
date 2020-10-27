@@ -4,9 +4,18 @@
 
 # Загальні оглядові діаграми
 <a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/obd_main_diagram_5.png"></a>
+<hr>
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC_1.png"></a>
+<hr>
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC_4.png"></a>
+<hr>
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC_9.png"></a>
+<hr>
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC_10.png"></a>
+<hr>
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC_13.png"></a>
 
 # Cпецифікації прецедентів
-<hr>
 
 ***ID:*** UC_1_1
 
