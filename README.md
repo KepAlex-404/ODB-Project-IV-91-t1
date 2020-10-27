@@ -8,5 +8,5 @@
 + Bohdan Chernykh | Gmail: jet.shustriy@gmail.com | Telegram: @Invisible3 |
 + Vihor Dmytro | Gmail:  | Telegram: @capVig |
 + Shchotkin Maksym | Gmail: maksym.shchotkin@gmail.com | Telegram: @SmakLagidlze |
-+ Yaremenko Vlada | Gmail:  | Telegram: @Wladzia |
++ Yaremenko Vlada | Gmail: wladzia.ya@gmail.com  | Telegram: @Wladzia |
 + Petruk Stas | Gmail:  | Telegram: @Frostbite_1242 |
