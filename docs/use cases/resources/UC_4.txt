@@ -1,0 +1,18 @@
+@startuml
+  actor Respondent
+  package UC_4{
+    usecase "Переглядання опитувань" as UC1.2#A4E5EE
+  }
+
+  usecase "Переглянути активні опитування" as UC2
+  usecase "Переглянути історію опитувань" as UC4
+  usecase "Переглянути запити на проходження опитувань" as UC5
+
+
+  Respondent --d-> UC_4
+
+  UC2 .u.-> UC_4
+  UC4 .u.> UC_4
+  UC5 .u.-> UC_4
+
+@enduml
