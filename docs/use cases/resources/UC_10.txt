@@ -1,22 +1,18 @@
 @startuml
-  actor Respondent
+  actor Analyst
   package UC_10{
     usecase "Застосування статистичних механізмів" as UC1.2#A4E5EE
   }
 
   usecase "Створити звіт" as UC2
-  usecase "Побудувати графіки" as UC4
-  usecase "Систематизувати інформацію" as UC5
+  usecase "Фільтрувати вибірку" as UC4
   usecase "Створити діаграми" as UC6
-  usecase "Підрхунок кількісних даних" as UC7
   
   
-  Respondent --d-> UC_10
+  Analyst --d-> UC_10
 
   UC2 .u.-> UC_10
   UC4 .u.> UC_10
-  UC5 .u.-> UC_10
   UC6 .u.> UC_10
-  UC7 .u.-> UC_10
 
 @enduml
