@@ -15,11 +15,8 @@
   usecase "<b>UC_3</b>\nЗаповнення форм" as fillForms #A4E5EE
   usecase "<b>UC_4</b>\nПереглядання опитувань" as browse
   
-  usecase "<b>UC_5</b>\nОтримання\n результатів опитування" as getResults #A4E5EE
-  usecase "<b>UC_6</b>\nПереглядання\n даних опитування" as getData #A4E5EE
   usecase "<b>UC_7</b>\nЗамовлення\n нового опитування" as order #A4E5EE
   
-  usecase "<b>UC_8</b>\nСтворення звіту" as createReport #A4E5EE
   usecase "<b>UC_9</b>\nУправління анкетами" as createForm
   usecase "<b>UC_10</b>\nЗастосування\n статистичних\n механізмов" as process
   
@@ -34,11 +31,8 @@
   Respondent --> browse
   
   Client -r-> order
-  Client -r-> getData
-  Client -l-> getResults
   
   Analyst -l-> createForm
-  Analyst -l-> createReport
   Analyst -r-> process
   
   Manager -l-> access
