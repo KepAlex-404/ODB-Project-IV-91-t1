@@ -118,6 +118,9 @@
 •	EX.001.001. Користувач відсутній в системі 
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC4_1.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_4_2
@@ -135,6 +138,9 @@
 •	EX.002.001. Респондент не був учасником опитування 
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC4_2.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_4_3
@@ -149,6 +155,9 @@
 
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC4_3.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_9_1
@@ -166,6 +175,9 @@
 •	EX.001.001. Некоректні параметри анкети 
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC9_1.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_9_2
@@ -183,6 +195,9 @@
 •	EX.001.002. Анкета відсутня 
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC9_2.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_9_3
@@ -200,6 +215,9 @@
 •	EX.001.003. Анкета відсутня 
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC9_3.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_10_1
@@ -218,6 +236,9 @@
 •	EX.001.002. Неправильно обрані параметри вибірки
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC10_1.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_10_2
@@ -235,6 +256,9 @@
 •	EX.001.002. Вибірка відсутня 
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC10_2.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_10_3
@@ -252,6 +276,9 @@
 •	EX.001.003. Вибірка відсутня
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC10_3.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_13_1
@@ -269,6 +296,9 @@
 •	EX.001.001. У користувача вже є права аналітика
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC13_1.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_13_2
@@ -286,6 +316,9 @@
 •	EX.001.001. Користувач вже без прав аналітика
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC13_2.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_2
@@ -303,6 +336,9 @@
 •	EX.001.001. Користувач не в системі
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC2.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_3
@@ -320,6 +356,9 @@
 •	EX.001.001. В респондента нема доступу до опитування
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC3.PNG"></a>
+
 <hr>
 
 ***ID:*** UC_7
@@ -337,4 +376,7 @@
 •	EX.001.001. Клієнта нема в системі
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
+
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/UC7.PNG"></a>
+
 <hr>
