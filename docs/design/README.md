@@ -1,4 +1,8 @@
-# Проєктування бази даних
+# Модель бізнес-об'єктів
 
-*В рамках проекту розробляється модель бізнес-об'єктів, ER-модель та реляційна схема.*
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/BE.png"></a>
+<hr>
 
+# ER модель
+<a href="url"><img src="https://github.com/KepAlex-404/ODB-Project-IV-91-t1/blob/BRCH-2/docs/use%20cases/resources/ER%20lab4.png"></a>
+<hr>
