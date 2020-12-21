@@ -49,7 +49,7 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `Repan`.`Surveys`
+-- Table `Repan`.`Polls`
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `Repan`.`Poll` ;
 
