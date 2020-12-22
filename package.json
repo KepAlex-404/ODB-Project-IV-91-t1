@@ -1,0 +1,31 @@
+{
+  "name": "repan",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {
+    "cli-table3": "^0.6.0",
+    "chalk": "^4.1.0",
+    "lodash-node": "^3.10.2",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KepAlex-404/ODB-Project-IV-91-t1.git"
+  },
+  "author": "KepAlex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KepAlex-404/ODB-Project-IV-91-t1/issues"
+  },
+  "homepage": "https://github.com/KepAlex-404/ODB-Project-IV-91-t1#readme"
+}
